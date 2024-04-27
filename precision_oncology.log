@@ -1,0 +1,9 @@
+2024-04-26 09:03:59,040 - INFO - START precision_oncology =============================================
+2024-04-26 09:03:59,040 - INFO - START precision_oncology Start Time = 2024-04-26 09:03:59
+2024-04-26 09:03:59,040 - INFO - precision_oncology Step 0 - Initialize the configuration file parser
+2024-04-26 09:03:59,041 - INFO - Process precision_oncology Step 0 - Initializing and starting Logging Process.
+2024-04-26 09:03:59,085 - INFO - PERFORMANCE precision_oncology The total process duration was:0.04
+2024-04-26 09:03:59,085 - INFO - PERFORMANCE precision_oncology Stop Time = 2024-04-26 09:03:59
+2024-04-26 09:03:59,085 - INFO - PERFORMANCE precision_oncology Short process duration less than 3 Seconds:0.04
+2024-04-26 09:03:59,085 - INFO - PERFORMANCE precision_oncology Performance optimization is not reccomended
+2024-04-26 09:03:59,085 - INFO - END precision_oncology =============================================
