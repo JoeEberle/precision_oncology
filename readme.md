@@ -53,5 +53,5 @@ To get started with the **Precision Oncology** solution repository, follow these
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](precision_oncology.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](precision_oncology.png)  <br>
     
