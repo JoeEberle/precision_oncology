@@ -41,7 +41,7 @@ To get started with the **Precision Oncology** solution repository, follow these
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](precision_oncology.png)  <br>
+ ![additional_image](AI_Dr_assistant.png)  <br>![additional_image](precision_oncology.png)  <br>![additional_image](precision_oncology_DNA.png)  <br>
     
 
 ## Github    
