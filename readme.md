@@ -44,11 +44,8 @@ To get started with the **Precision Oncology** solution repository, follow these
  ![additional_image](AI_Dr_assistant.png)  <br>![additional_image](precision_oncology.png)  <br>![additional_image](precision_oncology_DNA.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
