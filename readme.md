@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Precision Oncology 
-    ## Analysis of needs for current state of precision oncology.
+    
+# Precision Oncology 
+
+## Analysis of needs for current state of precision oncology.
+
     ![Image image_filename](code.png)
 **Precision oncology**, also known as personalized or molecular oncology, is an approach to cancer treatment that involves tailoring therapies to individual patients based on the specific genetic alterations, biomarkers, and molecular characteristics of their tumors. It aims to maximize treatment efficacy while minimizing side effects by matching patients with targeted therapies or immunotherapies that are most likely to be effective against their particular type of cancer.
 
@@ -30,9 +33,9 @@ To get started with the **Precision Oncology** solution repository, follow these
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Precision Oncology** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -42,6 +45,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](AI_Dr_assistant.png)  <br>![additional_image](precision_oncology.png)  <br>![additional_image](precision_oncology_DNA.png)  <br>
